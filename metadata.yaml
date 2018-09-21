@@ -1,0 +1,30 @@
+_repo: Memoirs-of-the-life-exile-and-conversations-of-the-Emperor-Napoleon-Vol-I_53967
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Las Cases, Emmanuel-Auguste-Dieudonné, comte de
+    aliases:
+    - Las Cases, Marin Joseph Emmanuel Auguste Dieudonné de, Marquis de la Caussade
+    - Cases, Emmanuel-Auguste-Dieudonné, comte de Las
+    - Las Cases, Emmanuel-Auguste-Dieudonne, comte de
+    birthdate: 1766
+    deathdate: 1842
+    gutenberg_agent_id: '47642'
+    url: http://www.gutenberg.org/2009/agents/47642
+description: ''
+gutenberg_issued: '2017-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53967'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Captivity, 1815-1821'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Contemporaries'
+- !lcc 'DC'
+- GITenberg
+title: Memoirs of the life, exile, and conversations of the Emperor Napoleon. (Vol.
+  I)
+url: http://www.gutenberg.org/ebooks/53967
